@@ -1,5 +1,3 @@
-## MAJ 2018.11.22 - 18:02
-
 library(ncdf4)
 library(fields)
 #
